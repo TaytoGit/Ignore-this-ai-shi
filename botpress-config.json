@@ -1,0 +1,21 @@
+{
+  "botId": "4276fc77-0ae6-4025-9997-ef8d2601e466",
+  "configuration": {
+    "version": "v2",
+    "website": {},
+    "email": {},
+    "phone": {},
+    "termsOfService": {},
+    "privacyPolicy": {},
+    "color": "#3276EA",
+    "variant": "solid",
+    "headerVariant": "glass",
+    "themeMode": "light",
+    "fontFamily": "inter",
+    "radius": 4,
+    "feedbackEnabled": false,
+    "footer": "[⚡ by Botpress](https://botpress.com/?from=webchat)",
+    "soundEnabled": false
+  },
+  "clientId": "d20ac756-ce8d-4b50-be57-be8c9854b00a"
+}

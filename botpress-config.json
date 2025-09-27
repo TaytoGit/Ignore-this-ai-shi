@@ -2,20 +2,23 @@
   "botId": "4276fc77-0ae6-4025-9997-ef8d2601e466",
   "configuration": {
     "version": "v2",
-    "website": {},
+    "botName": "Tuff AI",
+    "botAvatar": "https://files.bpcontent.cloud/2025/09/27/20/20250927203705-3ZGB8UZI.png",
+    "website": "https://sites.google.com/view/dhs-site/artificial-intelligence",
     "email": {},
     "phone": {},
     "termsOfService": {},
     "privacyPolicy": {},
-    "color": "#3276EA",
-    "variant": "solid",
+    "color": "#eb9531",
+    "variant": "soft",
     "headerVariant": "glass",
-    "themeMode": "light",
+    "themeMode": "dark",
     "fontFamily": "inter",
     "radius": 4,
-    "feedbackEnabled": false,
+    "feedbackEnabled": true,
     "footer": "[⚡ by Botpress](https://botpress.com/?from=webchat)",
-    "soundEnabled": false
+    "allowFileUpload": true,
+    "soundEnabled": true
   },
   "clientId": "d20ac756-ce8d-4b50-be57-be8c9854b00a"
 }

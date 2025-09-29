@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#ffffff" opacity="0.2">
+    <circle cx="12" cy="3" r="2"></circle><circle cx="16.95" cy="5.05" r="2"></circle>
+    <circle cx="21" cy="12" r="2"></circle><circle cx="16.95" cy="18.95" r="2"></circle>
+    <circle cx="12" cy="21" r="2"></circle><circle cx="7.05" cy="18.95" r="2"></circle>
+    <circle cx="3" cy="12" r="2"></circle><circle cx="7.05" cy="5.05" r="2"></circle>
+  </g>
+  <animateTransform attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="0.9s" repeatCount="indefinite"></animateTransform>
+</svg>

@@ -1,14 +1,9 @@
 {
   "botId": "4276fc77-0ae6-4025-9997-ef8d2601e466",
+  "clientId": "d20ac756-ce8d-4b50-be57-be8c9854b00a",
   "configuration": {
-    "version": "v2",
     "botName": "Tuff AI",
     "botAvatar": "https://cdn.jsdelivr.net/gh/TaytoGit/Ignore-this-ai-shi@main/TuffAiIcon.png",
-    "website": {},
-    "email": {},
-    "phone": {},
-    "termsOfService": {},
-    "privacyPolicy": {},
     "color": "#eb9531",
     "variant": "soft",
     "headerVariant": "glass",
@@ -19,6 +14,5 @@
     "footer": "[Open Classroom](https://classroom.google.com)",
     "allowFileUpload": true,
     "soundEnabled": true
-  },
-  "clientId": "d20ac756-ce8d-4b50-be57-be8c9854b00a"
+  }
 }
